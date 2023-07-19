@@ -2,6 +2,11 @@
 
 OnboardingKit provides an onboarding flow that is simple and easy to implement.
 
+
+![video-preview](https://raw.githubusercontent.com/Dev-Mauricio-Silva/OnboardingKit/42acf70fbc8584e88d50a52c42b6759af676d7ff/video-preview.gif)
+
+
+
 ## Contents
 
 - [Requirements](#requirements)
