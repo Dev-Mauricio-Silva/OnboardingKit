@@ -22,6 +22,7 @@ OnboardingKit provides an onboarding flow that is simple and easy to implement.
 - Swift 5.0 or later
 
 
+
 ## Installation
 There are two ways to use OnboardingKit in your project:
 - using Swift Package Manager
